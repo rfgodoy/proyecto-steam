@@ -2,7 +2,7 @@
 
 ## 12/8/2026
 - inicio armado de grupo (Ricardo ferreira -Lucas Ferreira)
-- [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
+- Eleccion del proyecto y evaluacion de costos
 - [Incluir:]
   - [Tareas completadas]
   - [Problemas encontrados y soluciones/alternativas propuestas]
