@@ -1,6 +1,7 @@
 # Informe de Avance 1: Agosto 202x
 
-## [x]/8/202x
+## 12/8/2026
+- inicio armado de grupo (Ricardo ferreira -Lucas Ferreira)
 - [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
 - [Incluir:]
   - [Tareas completadas]
