@@ -9,13 +9,24 @@
   - [Próximos pasos]
   - [Imágenes o videos ilustrativos del avance]
 
-## [x]/8/202x
-- [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
+## 24/08/2026
+- Descripcion del Proyecto :
+- El sistema detecta cuándo la tierra está seca y activa automáticamente una pequeña bomba de agua para regar la planta.
+- Cuando la humedad alcanza un nivel adecuado, la bomba se apaga.
 - [Incluir:]
-  - [Tareas completadas]
-  - [Problemas encontrados y soluciones/alternativas propuestas]
-  - [Próximos pasos]
-  - [Imágenes o videos ilustrativos del avance]
+  - Componentes
+micro:bit como controlador.
+Sensor de humedad del suelo.
+Mini bomba de agua de 3–5 V.
+Relé o módulo MOSFET para controlar la bomba.
+Recipiente para almacenar el agua.
+Tubo pequeño para llevar el agua hasta la maceta.
+Maceta con planta.
+Fuente de alimentación/pilas.
+Cables y protoboard.
+Opcional: LED o pantalla para indicar el estado.
+    - [Próximos pasos]
+   - [Imágenes o videos ilustrativos del avance]
 
 ## [x]/8/202x
 - [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
