@@ -35,9 +35,9 @@ Opcional: LED o pantalla para indicar el estado.
   - [Tareas completadas]
   -Viendo las dificultades que se presentan al intentar hacer el proyecto con microbit , manejamos la opcion d hacerlo con arduino
   - [Próximos pasos]
-  - | Imagen       | Descripción |
+  - | Imagen       | Bomba sensor |
 | ------------ | ----------- |
-<img src="imagenes/sistemaimg1.png" alt="Descripción" width="300">
+<img src="imagenes/sistemaimg1.png" alt="Descripción" width="200">
 
  
 
