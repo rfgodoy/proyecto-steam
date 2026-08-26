@@ -34,7 +34,6 @@ Opcional: LED o pantalla para indicar el estado.
 - Se adquire sensor de humedad y minibomba de agua 3v en el mercado
   - [Tareas completadas]
   -Viendo las dificultades que se presentan al intentar hacer el proyecto con microbit , manejamos la opcion d hacerlo con arduino
-  - [Próximos pasos]
   - | Imagen       | Bomba sensor |
 
 <img src="imagenes/sistemaimg1.png" alt="150" width="200">
