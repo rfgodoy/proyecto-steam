@@ -35,7 +35,10 @@ Opcional: LED o pantalla para indicar el estado.
   - [Tareas completadas]
   - [Problemas encontrados y soluciones/alternativas propuestas]
   - [Próximos pasos]
-  - [Imágenes o videos ilustrativos del avance]
+  - | Imagen       | Descripción |
+| ------------ | ----------- |
+| ![Compras](imagenes/sistemimg1.jpeg) | micro:bit v1 |
+ 
 
 ## [x]/8/202x
 - [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
