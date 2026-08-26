@@ -37,7 +37,8 @@ Opcional: LED o pantalla para indicar el estado.
   - [Próximos pasos]
   - | Imagen       | Descripción |
 | ------------ | ----------- |
-| ![Compras](imagenes/sistemaimg1.png) | Bomba Sensor  |
+<img src="imagenes/sistemaimg1.png" alt="Descripción" width="300">
+
  
 
 ## [x]/8/202x
