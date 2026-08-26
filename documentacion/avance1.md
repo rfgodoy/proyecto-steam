@@ -37,7 +37,7 @@ Opcional: LED o pantalla para indicar el estado.
   - [Próximos pasos]
   - | Imagen       | Descripción |
 | ------------ | ----------- |
-| ![Compras](/imagenes/sistemaimg1.jpeg) | micro:bit v1 |
+| ![Compras](imagenes/sistemaimg1.jpeg) | Bomba Sensor  |
  
 
 ## [x]/8/202x
