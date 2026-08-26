@@ -28,9 +28,10 @@ Opcional: LED o pantalla para indicar el estado.
     - [Próximos pasos]
    - [Imágenes o videos ilustrativos del avance]
 
-## [x]/8/202x
-- [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
-- [Incluir:]
+## 26/8/202x
+- Trabajo en clase , investigacion de posibilidades de fabricacion
+- videos para ver proyectos similares -https://www.youtube.com/watch?v=kZpA9VxRFow
+- Se adquire sensor de humedad y minibomba de agua 3v en el mercado
   - [Tareas completadas]
   - [Problemas encontrados y soluciones/alternativas propuestas]
   - [Próximos pasos]
