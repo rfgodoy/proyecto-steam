@@ -1,7 +1,7 @@
 # Informe de Avance 1: Agosto 202x
 
 ## 12/8/2026
-- inicio armado de grupo (Ricardo ferreira -Lucas Ferreira)
+- inicio armado de grupo (Ricardo ferreira)
 - Eleccion del proyecto y evaluacion de costos
 - [Incluir:]
   - [Tareas completadas]
