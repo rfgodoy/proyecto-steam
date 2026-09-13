@@ -40,12 +40,12 @@ Opcional: LED o pantalla para indicar el estado.
 
  
 
-## [x]/8/202x
-- [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
-- [Incluir:]
-  - [Tareas completadas]
-  - [Problemas encontrados y soluciones/alternativas propuestas]
-  - [Próximos pasos]
+## [13]/9/2026
+- [Trabajando con los mateiales que dispongo , comiezo a reealizar las conexiones]
+- 
+  - [Adjunt fotografia con lo realizado]
+  - [Al no entender como conectar el modulo relé , esperaaree para consullta en la proxima clase]
+  - [proxima clasee]
   - [Imágenes o videos ilustrativos del avance]
 
 ## Nota
