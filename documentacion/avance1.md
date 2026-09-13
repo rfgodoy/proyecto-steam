@@ -46,7 +46,7 @@ Opcional: LED o pantalla para indicar el estado.
   - [Adjunt fotografia con lo realizado]
   - [Al no entender como conectar el modulo relé , esperaaree para consullta en la proxima clase]
   - [proxima clasee]
-  - [<img src="imagenes/Imagen de WhatsApp 2026-09-13 a las 16.30.08.jpeg" alt="150" width="200">]
+    img src="imagenes/conexiones.jpg" alt="150" width="200">
 
 ## Nota
 En este enlace encontrarás un [ejemplo como debe completarse el informe de avance](avance_ejemplo.md).
