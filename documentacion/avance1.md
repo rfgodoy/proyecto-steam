@@ -45,7 +45,8 @@ Opcional: LED o pantalla para indicar el estado.
 - 
   - [Adjunt fotografia con lo realizado]
   - [Al no entender como conectar el modulo relé , esperaaree para consullta en la proxima clase]
-  - [proxima clasee]
+  -   | Imagen       | conexion |
+  -   
     <img src="imagenes/conexiones.jpg" alt="100" width="150">
 
 ## Nota
