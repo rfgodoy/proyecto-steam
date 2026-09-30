@@ -7,6 +7,7 @@
   - Se baja y prueba codigo para realizar mediciones de sensor y visualizamos los valores reportados
   - Luego de resueltos los problemas de coneccion encontrados , se ealzan todas las pruebas de forma satisfactoria.
      - <img src="imagenes/FotoConeccion.jpg" alt="150" width="100">
+     <img src="imagenes/Captura de pantalla2.jpg" alt="100" width="150">
      
 
 ## [x]/9/202x
