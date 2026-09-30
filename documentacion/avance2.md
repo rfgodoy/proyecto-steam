@@ -7,7 +7,7 @@
   - [Tareas completadas]
   - [Problemas encontrados y soluciones/alternativas propuestas]
   - [Próximos pasos]
-  - <img src="imagenes/FotoConeccion.jpg" alt="150" width="200">
+  - <img src="imagenes/FotoConeccion.jpg" alt="150" width="100">
 
 ## [x]/9/202x
 - [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
