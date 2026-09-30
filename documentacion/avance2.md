@@ -3,11 +3,11 @@
 ## 30/9/2026
 - Se completa las conecciones del sistema , Se coonecta por cable USB plaqueta arduino UNO ,Instalamos software
 - arduino IDE y probamos coneccion de PC a plaqueta.
-- - [Incluir:]
-  - [Tareas completadas]
-  - [Problemas encontrados y soluciones/alternativas propuestas]
-  - [Próximos pasos]
-  - <img src="imagenes/FotoConeccion.jpg" alt="150" width="100">
+- - Se copia y ejecuta codigo para probar plaqueta arduino.
+  - Se baja y prueba codigo para realizar mediciones de sensor y visualizamos los valores reportados
+  - Luego de resueltos los problemas de coneccion encontrados , se ealzan todas las pruebas de forma satisfactoria.
+     - <img src="imagenes/FotoConeccion.jpg" alt="150" width="100">
+     
 
 ## [x]/9/202x
 - [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
