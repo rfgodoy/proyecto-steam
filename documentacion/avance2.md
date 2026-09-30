@@ -8,6 +8,8 @@
   - Luego de resueltos los problemas de coneccion encontrados , se ealzan todas las pruebas de forma satisfactoria.
      - <img src="imagenes/FotoConeccion.jpg" alt="100" width="150">
      <img src="imagenes/Captura de pantalla2.jpg" alt="100" width="150">
+
+     Proximos pasos Probar la bomba funcionando
      
 
 ## [x]/9/202x
