@@ -1,8 +1,9 @@
 # Informe de Avance 2: Septiembre 202x
 
-## [x]/9/202x
-- [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
-- [Incluir:]
+## 30/9/2026
+- Se completa las conecciones del sistema , Se coonecta por cable USB plaqueta arduino UNO ,Instalamos software
+- arduino IDE y probamos coneccion de PC a plaqueta.
+- - [Incluir:]
   - [Tareas completadas]
   - [Problemas encontrados y soluciones/alternativas propuestas]
   - [Próximos pasos]
