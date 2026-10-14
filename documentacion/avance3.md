@@ -3,15 +3,21 @@
 ## 14/10/2026
 
 ### Tareas completadas
-Realiza conexines del sistema , se utilizan pilas nuevas para solucionar probleamde voltaje.
+Realiza conexines del sistema , se utilizan pilas nuevas para solucionar problema de voltaje.
 Se hace funcionar la bomba en forma continua para probar su funcionamiento , utilizamos recipiente con agua para hacerlo funcionar 
 estilo fuente.
 
 ### Problemas encontrados y soluciones/alternativas propuestas
 No se observaba el funcioinamiento de la bomba hasta solucionar problema de coneccion, luego se sumerge la bomba en agua para mejor funcionamiento
+Se realiza video de la bomba funcionando ,mandando agua asi queda registrado
 
 
-- [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
+###  Aavances en el proyecto :
+Se realizan mediciones de humedad tomando valores :
+Sensor fuera de la tierra 1023
+Tierra Seca 868
+Tierra Humeda 320
+
 - [Incluir:]
   - ]
   - [s]
