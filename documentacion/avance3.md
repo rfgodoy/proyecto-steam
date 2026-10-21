@@ -18,20 +18,16 @@ Sensor fuera de la tierra 1023
 Tierra Seca 868
 Tierra Humeda 320
 
-- [Incluir:]
-  - ]
-  - [s]
-  - [Próximos pasos]
-  - [Imágenes o videos ilustrativos del avance]
 
-## [x]/10/202x
-- [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
-- [Incluir:]
-  - [Tareas completadas]
-  - [Problemas encontrados y soluciones/alternativas propuestas]
-  - [Próximos pasos]
-  - [Imágenes o videos ilustrativos del avance]
+## 21/10/2026
+### Tareas completadas
+Hicimos más mediciones, pero ahora los resultados apenas variaron entre tierras, quedando en 296 apenas subido el algoritmo, bajando a 295. Mientras que el valor de la tierra seca varío de 295 a 293. Con estos resultados vamos a definir cómo funciona la bomba, definiendo un umbral de 500 que equivaldrá apagar o activar la bomba dependiendo si es menor o mayor a ese valor, así evitamos funcionamiento y uso de recursos constante. Ya tenemos un código para medir la témperatura aunque aún sigue abierto a cambios y mejoras.
 
+### Problemas encontrados y soluciones propuestas
+A diferencia de la sesión pasada, el proyecto no presentó valores realmente distintivos entre tipos de tierra, ya que la planta que usamos era distinta a la anterior, se entiende por qué, tenemos que usar más e ir definiendo rangos y valores por tipo de tierra mientras probamos más configuraciones.
+
+### Avances del proyecto
+Descubrimos que el relé gasta energía más rápido de lo esperado, y al intentar usarlo hoy, ya no daban los voltios, es entendible por la configuración de 5V que tenemos. Aún seguimos probando maneras para que funcione la energía consistentemente.
 ## [x]/10/202x
 - [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
 - [Incluir:]
