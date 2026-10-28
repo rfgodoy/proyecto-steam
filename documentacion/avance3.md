@@ -28,12 +28,14 @@ A diferencia de la sesión pasada, el proyecto no presentó valores realmente di
 
 ### Avances del proyecto
 Descubrimos que el relé gasta energía más rápido de lo esperado, y al intentar usarlo hoy, ya no daban los voltios, es entendible por la configuración de 5V que tenemos. Aún seguimos probando maneras para que funcione la energía consistentemente.
-## [x]/10/202x
-- [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
+## 28/10/2026
+- Decidimos utilizar como funete de alimentacin un cable USB conectado a la compuadora y cortando la otra punta utilizamos cable rojo y negro
+- asi podemos obtener 5V de alimentacion para hacer funcionar la bomba de agua.
 - [Incluir:]
-  - [Tareas completadas]
-  - [Problemas encontrados y soluciones/alternativas propuestas]
-  - [Próximos pasos]
+  - Soldador ,Estaño y buana manualidad 
+  - Sse realizan mediciones en el cable pafra verificar que el voltaje sea el correcto, despues de una prueba inicial fallida
+  - las siguientes mostraron mediciones de 5,23V en forma constante.
+  - No tenemos los restantes materiales para seguir probando
   - [Imágenes o videos ilustrativos del avance]
 
 ## [x]/10/202x
